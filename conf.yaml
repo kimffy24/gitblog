@@ -12,7 +12,7 @@ duoshuo:
 baiduAnalytics: 79e8728880317232020cb85bec174661
 keywords: jiefzz,龙金飞,linux,java,j2ee,运维,GitBlog,博客,Markdown博客
 description: >
-    就是个个人博客而已，没什么好介绍的。
+    本博客由金飞使用Gitblog为你献上，欢迎你!
 version: 2.2
 author:
     name: jiefzz
@@ -28,5 +28,5 @@ blog:
 text:
     title: What's this?
     intro: >
-          本博客由金飞使用Gitblog为你献上，欢迎你!
+        就是个个人博客而已，没什么好介绍的。
           
