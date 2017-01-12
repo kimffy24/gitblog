@@ -3,7 +3,7 @@
 url: "http://blog.jiefzz.com"
 title: 码海无涯
 subtitle: 放开那个bug！让我来！
-theme: quest
+theme: jtheme
 enableCache: false
 highlight: true
 mathjax: false
