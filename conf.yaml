@@ -1,31 +1,31 @@
 #GitBlog配置文件，使用4个空格代替Tab
 ---
-url: /
-title: Your-GitBlog
-subtitle: 自豪地采用GitBlog
-theme: simple
+url: "http://blog.jiefzz.com"
+title: 码海无涯
+subtitle: 放开那个bug！让我来！
+theme: quest
 enableCache: true
 highlight: true
 mathjax: false
 katex: false
 duoshuo:
-baiduAnalytics:
-keywords: GitBlog,博客,Markdown博客,jockchou
+baiduAnalytics: 79e8728880317232020cb85bec174661
+keywords: jiefzz,龙金飞,linux,java,j2ee,运维,GitBlog,博客,Markdown博客
 description: >
-    GitBlog是一个简单易用的Markdown博客系统
+    就是个个人博客而已，没什么好介绍的。
 version: 2.2
 author:
-    name: your-name
-    email: your-email@example.com
-    github: your-github
-    weibo: your-weibo
+    name: jiefzz
+    email: 1077101169@qq.com
+    github: kimffy24
+    weibo: flyinglovee@sina.com
     avatar:
 blog:
     recentSize: 5
-    pageSize: 6
+    pageSize: 10
     pageBarSize: 5
     allBlogsForPage: false
 text:
-    title: 介绍
+    title: What's this?
     intro: >
-          本博客使用Gitblog搭建，欢迎你!
+          本博客由金飞使用Gitblog搭建，欢迎你!
